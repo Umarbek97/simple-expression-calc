@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\User\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\User\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\User\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+D:\Required folder\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Required folder\calculator\calculator\bin\Debug\calculator.exe
+D:\Required folder\calculator\calculator\bin\Debug\calculator.pdb
+D:\Required folder\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Required folder\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Required folder\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Required folder\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Required folder\calculator\calculator\obj\Debug\calculator.exe
+D:\Required folder\calculator\calculator\obj\Debug\calculator.pdb
+D:\Required folder\calculator\calculator\obj\Debug\calculator.SimpleCalculator.resources
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\bin\Debug\calculator.exe
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\bin\Debug\calculator.pdb
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.SimpleCalculator.resources
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.exe
+D:\Common Files\All files\Projects\Projects archieved\calculator\calculator\calculator\obj\Debug\calculator.pdb
