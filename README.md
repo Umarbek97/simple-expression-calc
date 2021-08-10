@@ -1,0 +1,1 @@
+This is just a simple expression calculator that can do some mathematical operations following the operations' priorities.
